@@ -1,0 +1,3 @@
+/// @description 
+
+splashTime = 60;

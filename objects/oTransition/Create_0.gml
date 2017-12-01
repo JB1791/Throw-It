@@ -1,0 +1,3 @@
+/// @description 
+
+targetRoom = -1;
